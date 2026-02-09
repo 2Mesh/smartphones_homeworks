@@ -32,12 +32,12 @@ class MyStatelessWidget extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Text(
-              'Name: Meshari Alrubyaan',
+              'Meshari Alrubyaan',
               style: TextStyle(fontSize: 24),
             ),
             SizedBox(height: 10),
             Text(
-              'Email: m.h.i.66690@hotmail.com',
+              '445159635',
               style: TextStyle(fontSize: 16),
             ),
           ],
